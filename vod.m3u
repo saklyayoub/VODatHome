@@ -1,6 +1,12 @@
+#EXTINF:-1 tvg-name="The Hobbit an Unexpected Journey"
 http://192.168.1.6:8080/hls/the_hobbit_an_unexpected_journey/index.m3u8
+#EXTINF:-1 tvg-name="The Hobbit the Desolation of Smaug"
 http://192.168.1.6:8080/the_hobbit_the_desolation_of_smaug.mp4
+#EXTINF:-1 tvg-name="The Hobbit Battle of the Five Armies"
 http://192.168.1.6:8080/hls/the_hobbit_battle_of_the_five_armies/index.m3u8
+#EXTINF:-1 tvg-name="The Meg"
 http://192.168.1.6:8080/hls/the_meg/index.m3u8
+#EXTINF:-1 tvg-name="Tom Clancys Without Remorse"
 http://192.168.1.6:8080/hls/tom_clancys_without_remorse/index.m3u8
-http://192.168.1.6:8080/five_hundred_days_of_summer.mp4
+#EXTINF:-1 tvg-name="500 Day of Summer"
+http://192.168.1.6:8080/five_hundred_day_of_summer/index.m3u8
